@@ -1,3 +1,3 @@
 # docker-truffle
 
-Truffle 3.3.x + Node.js 8 + Alpine
+Truffle 3.4.x + Node.js 8 + Alpine
